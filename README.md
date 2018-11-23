@@ -20,4 +20,4 @@ TM_SchoCharSheet
 
 * Promoted through / Diffusé via : ACRL sandbox, Project CORA
 
-* Commments are welcomed at / Commentaires bienvenues : pascal.martinolli [à] umontreal.ca
+* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
