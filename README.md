@@ -2,9 +2,9 @@ TM_SchoCharSheet
 ## Teaching material: Scholarly character sheet
 ## Matériel pédagogique : Feuille de personnage de chercheur
 
-[Sheet in English, PDF]()
+[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/TM_SchoCharSheet-v1.18-en.pdf)
 
-[Feuille en français, PDF]()
+[Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/TM_SchoCharSheet-v1.18-fr.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
