@@ -16,7 +16,7 @@ TM_SchoCharSheet
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : Séminaire PLU6058 Seminar
+* Used by / Utilisé par  : Séminaire PLU6058 Seminar, DRT6501
 
 * Presented at / Présenté à : WILU2018, Donjons & Données probantes 2018, Congrès BES-CPI 2018, McGill ACRL Reflection 2018.
 
