@@ -70,6 +70,6 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
    * S'appuyer principalement sur la grille d'évaluation des habiletés 
    * Utiliser le document [TM-SchoProMa](https://github.com/pmartinolli/TM-SchoProMa) pour la gestion de profil
 2. Conduire les ateliers, le programme, le cours ou le suivi personnalisé.
-3. À la dernière rencontre, reprendre tout la feuille de personnage pour faire un bilan des acquis (avec une autre couleur si possible, pour voir la progression).
+3. À la dernière rencontre, reprendre toute la feuille de personnage pour faire un bilan des acquis (avec une autre couleur si possible, pour voir la progression).
 
 
