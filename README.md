@@ -31,7 +31,7 @@ TM_SchoCharSheet
 
   * Promesse pédagogique claire
   
-  * Présenter la feuille de personnage du formateur
+  * Présenter la [feuille de personnage du formateur](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/Feuille-de-personnage-d-apprentissage-CI-french-exemple-pmartinolli.pdf)
 
 * Reconnaître les acquis des étudiants
 
