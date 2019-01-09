@@ -6,6 +6,8 @@ TM_SchoCharSheet
 
 [Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-fr.pdf)
 
+[Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
+
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2017
@@ -67,7 +69,7 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 
 1. Prendre un temps au début du premier atelier ou au commencement d'un programme, d'un cours ou lors d'une première rencontre individuelle.
    * Faire remplir la feuille par l'étudiant sous la conduite du formateur
-   * S'appuyer principalement sur la grille d'évaluation des habiletés 
+   * S'appuyer principalement sur la [grille d'évaluation des habiletés](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
    * Utiliser le document [TM-SchoProMa](https://github.com/pmartinolli/TM-SchoProMa) pour la gestion de profil
 2. Conduire les ateliers, le programme, le cours ou le suivi personnalisé.
 3. À la dernière rencontre, reprendre toute la feuille de personnage pour faire un bilan des acquis (avec une autre couleur si possible, pour voir la progression).
