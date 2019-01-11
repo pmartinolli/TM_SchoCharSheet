@@ -17,11 +17,11 @@ TM_SchoCharSheet
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : Séminaire PLU6058 Seminar, DRT6501
+* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
 
-* Presented at / Présenté à : WILU2018, Donjons & Données probantes 2018, Congrès BES-CPI 2018, McGill ACRL Reflection 2018.
+* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
 
-* Promoted through / Diffusé via : ACRL sandbox, Project CORA
+* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
@@ -41,7 +41,7 @@ TM_SchoCharSheet
   
   * Repérer des besoins généraux ou spécifiques
   
-  * Autoévaluer son niveau de connaissance, ses habiletés et sa compréhension (Tiuraniemi et al., 2011)(Roussel, 2019)
+  * Autoévaluer son niveau de connaissance, ses habiletés et sa compréhension (Tiuraniemi et al., 2011; Roussel, 2019)
   
   * Limiter la surévaluation des compétences informationnelles par les étudiants et mieux se connaître
   
