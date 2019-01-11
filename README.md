@@ -1,11 +1,11 @@
-TM_SchoCharSheet
-## Teaching material: Scholarly character sheet
-## Matériel pédagogique : Feuille de personnage du chercheur
+## Feuille de personnage du chercheur
 
-[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)
+## Scholarly character sheet
 
 [Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-fr.pdf) - 
 [Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
+
+[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)
 
 * Author / Auteur : Pascal Martinolli
 
