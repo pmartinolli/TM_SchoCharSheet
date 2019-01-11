@@ -130,3 +130,5 @@ Mark Reign-Hagen et al., *Vampire : The Masquerade*, White Wolf, 1991.
 
 Stephen Tihor, *Haven Herald* #1, 1975.
 
+---
+https://github.com/pmartinolli/TM_SchoCharSheet
