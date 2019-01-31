@@ -1,29 +1,12 @@
-## Feuille de personnage du chercheur
-
-## Scholarly character sheet
+# Feuille de personnage du chercheur
 
 [Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-fr.pdf) - 
 [Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
 
+## Scholarly character sheet
+
 [Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)
 
-* Author / Auteur : Pascal Martinolli
-
-* Created / Créé le : 2017
-
-* Most recent version / Dernière version : 1.18
-
-* Original format / format de fichier : MS Publisher 2013 (Proprietary/Propriétaire)
-
-* License / Licence : CC-BY
-
-* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
-
-* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
-
-* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
-
-* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 # Pourquoi l'utiliser ?
 
@@ -88,6 +71,28 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 ## Sur les épaules des géants \[des nuages\]
 
 Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage) est issu de la sous-culture des jeux de rôle sur table depuis 1975 (Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014).
+
+## Métadonnées
+
+* Author / Auteur : Pascal Martinolli
+
+* Created / Créé le : 2017
+
+* Most recent version / Dernière version : 1.18
+
+* Original format / format de fichier : MS Publisher 2013 (Proprietary/Propriétaire)
+
+* License / Licence : CC-BY
+
+* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
+
+* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
+
+* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
+
+* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
+
+
 
 
 ## Bibliographie
