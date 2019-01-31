@@ -70,7 +70,7 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 
 ## Sur les épaules des géants \[des nuages\]
 
-Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage) est issu de la sous-culture des jeux de rôle sur table depuis 1975 (Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014).
+Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage), né en 1975, est issu de la sous-culture des jeux de rôle sur table (Tibor, 1975 ; Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014).
 
 ## Métadonnées
 
@@ -129,11 +129,13 @@ Topîrceanu, Alexandru. « Gamified Learning: A Role-Playing Approach to Increa
 
 Gary Gygax & Dave Arneson, *Dungeons & Dragons*, Tactical Studies Rules, 1974.
 
+Stephen Tihor, *Haven Herald* #1, 1975.
+
 Sandy Peterson, *Call of Cthulhu*, Chaosium, 1981.
 
 Mark Reign-Hagen et al., *Vampire : The Masquerade*, White Wolf, 1991.
 
-Stephen Tihor, *Haven Herald* #1, 1975.
 
----
+\
+\
 https://github.com/pmartinolli/TM_SchoCharSheet
