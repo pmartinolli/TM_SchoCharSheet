@@ -3,12 +3,12 @@
 [Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-fr.pdf) - 
 [Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
 
-## Scholarly character sheet
+# Scholarly character sheet
 
 [Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)
 
 
-# Pourquoi l'utiliser ?
+## Pourquoi l'utiliser ?
 
 * Créer un lien avec les étudiants
 
