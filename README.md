@@ -3,9 +3,9 @@
 [Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-fr.pdf) - 
 [Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
 
-# Scholarly character sheet
+# *Scholarly character sheet*
 
-[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)
+*[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)*
 
 
 ## Pourquoi l'utiliser ?
@@ -59,7 +59,7 @@
 Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et de ludification de cette activité dans la [diapo no. 10 de cette présentation](http://hdl.handle.net/1866/21087).
 
 
-## Comment l'utiliser ?
+## Comment l'utiliser ? 
 
 1. Prendre un temps au début du premier atelier ou au commencement d'un programme, d'un cours ou lors d'une première rencontre individuelle.
    * Faire remplir la feuille par l'étudiant sous la conduite du formateur
@@ -72,30 +72,30 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 
 Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage), né en 1975, est issu de la sous-culture des jeux de rôle sur table (Tibor, 1975 ; Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014).
 
-## Métadonnées
+## Métadonnées / *Metadata*
 
-* Author / Auteur : Pascal Martinolli
+* Auteur / *Author* : Pascal Martinolli
 
-* Created / Créé le : 2017
+* Créé le / *Created* : 2017
 
-* Most recent version / Dernière version : 1.18
+* Dernière version / *Most recent version* : 1.18
 
-* Original format / format de fichier : MS Publisher 2013 (Proprietary/Propriétaire)
+* Format de fichier / *Original format* : MS Publisher 2013 (Propriétaire/*Proprietary*)
 
-* License / Licence : CC-BY
+* Licence / *License* : CC-BY
 
-* Used by / Utilisé par  : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
+* Utilisé par / *Used by* : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
 
-* Presented at / Présenté à : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
+* Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
 
-* Promoted through / Diffusé via : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
+* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
 
-* Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
-
-
+* Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
 
 
-## Bibliographie
+
+
+## Bibliographie / *References*
 
 Beattie, Scott. « Height vs. Depth in Badging Framework Design ». In *Foundation of Digital Badges and Micro-Credentials*, édité par Dirk Ifenthaler, Nicole Bellin-Mularski, et Dana-Kristin Mah, 307‑24. Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-15425-1_17.
 
@@ -125,7 +125,7 @@ Tiuraniemi, Juhani, Riitta Läärä, Tuuli Kyrö, et Sari Lindeman. « Medical 
 Topîrceanu, Alexandru. « Gamified Learning: A Role-Playing Approach to Increase Student in-Class Motivation ». In *Procedia Computer Science*, 112:41‑50. Marseille, France: Procedia Computer Science, 2017. https://doi.org/10.1016/j.procs.2017.08.017.
 
 
-## Ludographie
+## Ludographie / *Ludography*
 
 Gary Gygax & Dave Arneson, *Dungeons & Dragons*, Tactical Studies Rules, 1974.
 
