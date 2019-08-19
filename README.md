@@ -5,7 +5,7 @@
 
 # *Scholarly character sheet*
 
-*[Sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)*
+*[Character sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)*
 
 
 ## Pourquoi l'utiliser ?
@@ -75,6 +75,8 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 ## Métadonnées / *Metadata*
 
 * Auteur / *Author* : Pascal Martinolli
+
+* Traduite / *Tranlated by* : [Jennifer AW Stubbs](https://github.com/jas58)
 
 * Créé le / *Created* : 2017
 
