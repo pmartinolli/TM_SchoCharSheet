@@ -76,7 +76,7 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 * Auteur / *Author* : Pascal Martinolli
 
-* Traduite / *Tranlated by* : [Jennifer AW Stubbs](https://github.com/jas58)
+* Traduite / *Translated by* : [Jennifer AW Stubbs](https://github.com/jas58)
 
 * Créé le / *Created* : 2017
 
