@@ -38,7 +38,7 @@
   * Avoir une mesure de soi objective de sa métalittératie ;
   * Autoréguler pour un apprenstissage en profondeur (Taras, 2008).
 
-Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et de ludification de cette activité dans la [diapo no. 10 de cette présentation](http://hdl.handle.net/1866/21087).
+Pour aller plus loin, consulter les [diapos no. 4 à 16 de cette présentation](http://hdl.handle.net/1866/21087) (dont le bingo diapo 10).
 
 ***Why using it?***
 
@@ -92,6 +92,8 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 * Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
 
 * Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
+
+* Twitter me at : [@Pascaliensis](https://twitter.com/Pascaliensis)
 
 
 
