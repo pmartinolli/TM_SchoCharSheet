@@ -63,8 +63,11 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 ***Why using it?***
 
 *- Creating a personal connection with the students: clarifying the pedagogical promises ; presenting the [character sheet of the teacher](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/Feuille-de-personnage-d-apprentissage-CI-french-exemple-pmartinolli.pdf) ; participating in an active learning activity in methodology (Kollars & Rosen, 2017; Mess, 1994; Topîrceanu, 2017).*
+
 *- Collecting learning badges: recording the achievements ; acknowledging an accomplishment ; indicating a proven skill or ability ; being an evidence of learning ; verifying competency or mastery ; validating non-traditional skills or experiences (O'Brien & Jabobson, 2018).*
+
 *- Presenting the syllabus of the seminar: matching the curriculum with the profile of each student ; clarifying the learning goals and success criteria ; embedding the seminar in the personal narrative of each student (Daniau, 2016; Duffy, 2018) ; creating teasers ; creating a meta-frame of learning ; inspiring a critical thinking attitude toward the curriculum (Bélair, 2015).*
+
 *- Measuring the progression: wrapping up the seminar ; identifying the learning gaps ; facilitating the integration of the knowledge ; having a precise measure of the metaliteracy of the students ; self-assessment for deep learning (Taras, 2008).*
 
 *To go further, check the gamification bingo in this presentation: [slides no. 4 to 16](http://hdl.handle.net/1866/22333).*
