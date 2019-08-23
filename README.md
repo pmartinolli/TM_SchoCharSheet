@@ -93,7 +93,7 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 * Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
 
-* Tweet me at : [@Pascaliensis](https://twitter.com/Pascaliensis)
+* Gazouille-moi à / Tweet me at : [@Pascaliensis](https://twitter.com/Pascaliensis)
 
 
 
