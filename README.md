@@ -67,7 +67,7 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 ***On the Shoulders of [Cloud] Giants***
 
-The concept of [character sheet](https://fr.wikipedia.org/wiki/Feuille_de_personnage) is born in 1975 from the subculture of tabletop role-playing games (Tibor, 1975 ; Peterson, 2013). This document describes a fictional character through key informations: abilities, assets, flaws, relations, history, etc. Most of the time, these informations are quantified to be used as game mechanics (Beattie, 2016; Konzack, 2013; Morningstar, 2014). A character sheet can be considered as a collection of achievement badges.
+*The concept of [character sheet](https://fr.wikipedia.org/wiki/Feuille_de_personnage) is born in 1975 from the subculture of tabletop role-playing games (Tibor, 1975 ; Peterson, 2013). This document describes a fictional character through key informations: abilities, assets, flaws, relations, history, etc. Most of the time, these informations are quantified to be used as game mechanics (Beattie, 2016; Konzack, 2013; Morningstar, 2014). A character sheet can be considered as a collection of achievement badges.*
 
 
 
