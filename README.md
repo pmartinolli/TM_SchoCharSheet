@@ -87,9 +87,7 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 * Utilisé par / *Used by* : [Séminaire PLU6058 Seminar](https://bib.umontreal.ca/multidisciplinaire/plu6058), DRT6501
 
-* Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html).
-
-* Diffusé via / *Promoted through* : [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), GitHub, [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca)
+* Présenté à / *Presented at* : [WILU2018](http://hdl.handle.net/1866/20641), [Donjons & Données probantes 2018](http://hdl.handle.net/1866/21088), [Congrès BES-CPI 2018]( http://hdl.handle.net/1866/21087), [McGill ACRL Reflection 2018](https://zotrpg.blogspot.com/2018/11/trpg-elements-to-enhance-student.html), [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca).
 
 * Commentaires bienvenus / *Commments are welcomed at* : pascal.martinolli [à] umontreal.ca
 
