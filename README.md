@@ -44,9 +44,11 @@
   
   * Favoriser l'esprit critique face aux apprentissages à venir et leur donner du sens (Bélair, 2015)
 
-* Mesurer la progression
+* Mesurer la progression 
 
   * Conclure la série d'atelier
+  
+  * Collecter les badges d'accomplissements (O'Brien & Jabobson, 2018)
   
   * Repérer les lacunes
   
@@ -58,6 +60,14 @@
 
 Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et de ludification de cette activité dans la [diapo no. 10 de cette présentation](http://hdl.handle.net/1866/21087).
 
+***Why using it?***
+
+*- Creating a personal connection with the students: clarifying the pedagogical promises ; presenting the [character sheet of the teacher](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/Feuille-de-personnage-d-apprentissage-CI-french-exemple-pmartinolli.pdf) ; participating in an active learning activity in methodology (Kollars & Rosen, 2017; Mess, 1994; Topîrceanu, 2017).*
+*- Collecting learning badges: recording the achievements ; acknowledging an accomplishment ; indicating a proven skill or ability ; being an evidence of learning ; verifying competency or mastery ; validating non-traditional skills or experiences (O'Brien & Jabobson, 2018).*
+*- Presenting the syllabus of the seminar: matching the curriculum with the profile of each student ; clarifying the learning goals and success criteria ; embedding the seminar in the personal narrative of each student (Daniau, 2016; Duffy, 2018) ; creating teasers ; creating a meta-frame of learning ; inspiring a critical thinking attitude toward the curriculum (Bélair, 2015).*
+*- Measuring the progression: wrapping up the seminar ; identifying the learning gaps ; facilitating the integration of the knowledge ; having a precise measure of the metaliteracy of the students ; self-assessment for deep learning (Taras, 2008).*
+
+*To go further, check the gamification bingo in this presentation: [slides no. 4 to 16](http://hdl.handle.net/1866/22333).*
 
 ## Comment l'utiliser ? 
 
@@ -70,7 +80,13 @@ Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et d
 
 ## Sur les épaules des géants \[des nuages\]
 
-Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage), né en 1975, est issu de la sous-culture des jeux de rôle sur table (Tibor, 1975 ; Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014).
+Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_personnage), né en 1975, est issu de la sous-culture des jeux de rôle sur table (Tibor, 1975 ; Peterson, 2013). Ce document, généralement sous la forme d'une simple feuille recto, contient toutes les informations permettant de caractériser un personnage joué (habileté, atouts, défauts, possession, historique clé). La plupart du temps ces informations sont quantifiées pour pouvoir être utilisée en jeu (Beattie, 2016; Konzack, 2013; Morningstar, 2014). Une feuille de personnage peut aussi être considérée comme une collection de badges d'accomplissements.
+
+***On the Shoulders of [Cloud] Giants***
+
+The concept of [character sheet](https://fr.wikipedia.org/wiki/Feuille_de_personnage) is born in 1975 from the subculture of tabletop role-playing games (Tibor, 1975 ; Peterson, 2013). This document describes a fictional character through key informations: abilities, assets, flaws, relations, history, etc. Most of the time, these informations are quantified to be used as game mechanics (Beattie, 2016; Konzack, 2013; Morningstar, 2014). A character sheet can be considered as a collection of achievement badges.
+
+
 
 ## Métadonnées / *Metadata*
 
@@ -114,6 +130,8 @@ Konzack, Lars. « Characterology in Tabletop Role-Playing Games: A Textual Anal
 Mess, John A. « Use of Roleplaying in Bibliographic Instruction ». *Science & Technology Libraries* 14, nᵒ 2 (1994): 105‑18. https://doi.org/10.1300/J122v14n02_09.
 
 Morningstar, Jason. « Visual Design as Metaphor: The Evolution of a Character Sheet ». Blog. *Analog Game Studies* (blog), 2 décembre 2014. http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/.
+
+O’Brien, Kelsey, and Trudi E. Jacobson, eds. *Teaching with Digital Badges: Best Practices for Libraries. Innovations in Information Literacy*. Lanham, MD: Rowman & Littlefield, 2018.
 
 Peterson, Jon. « Character Sheets in 1975 ». Blog. *Playing at the World* (blog), 7 juillet 2013. http://playingattheworld.blogspot.com/2013/07/character-sheets-in-1975.html.
 
