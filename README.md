@@ -10,53 +10,33 @@
 
 ## Pourquoi l'utiliser ?
 
-* Créer un lien avec les étudiants
-
-  * Clarifier la promesse pédagogique 
-  
-  * Présenter la [feuille de personnage du formateur](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/Feuille-de-personnage-d-apprentissage-CI-french-exemple-pmartinolli.pdf)
-  
+* Créer un lien avec les étudiants :
+  * Clarifier la promesse pédagogique ;
+  * Présenter la [feuille de personnage du formateur](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/Feuille-de-personnage-d-apprentissage-CI-french-exemple-pmartinolli.pdf) ;
   * Conduire et recevoir un apprentissage actif jeuderôlisé en méthodologie (Kollars & Rosen, 2017; Mess, 1994; Topîrceanu, 2017).
 
-* Reconnaître les acquis des étudiants
-
-  * Avoir un aperçu rapide et précis l'ensemble des étudiants
-  
-  * Repérer des besoins généraux ou spécifiques
-  
-  * Autoévaluer son niveau de connaissance, ses habiletés et sa compréhension (Tiuraniemi et al., 2011; Roussel, 2019)
-  
-  * Limiter la surévaluation des compétences informationnelles par les étudiants et mieux se connaître
-  
-  * Être reconnu dans ses forces et se positionner par rapport à leurs pairs et par rapport aux objectifs
+* Reconnaître les acquis des étudiants :
+  * Avoir un aperçu rapide et précis l'ensemble des étudiants ;
+  * Repérer des besoins généraux ou spécifiques ;
+  * Autoévaluer son niveau de connaissance, ses habiletés et sa compréhension (Tiuraniemi et al., 2011; Roussel, 2019) ;
+  * Limiter la surévaluation des compétences informationnelles par les étudiants et mieux se connaître ;
+  * Être reconnu dans ses forces et se positionner par rapport à leurs pairs et par rapport aux objectifs.
 
 * Présenter le programme des ateliers 
+  * Apparier le programme aux besoins des étudiants ;
+  * Clarifier les cibles d'apprentissage et les critères de succès ;
+  * Inscrire la formation dans la narration personnelle de l'étudiant (Daniau, 2016; Duffy, 2018) ;
+  * Créer des amorçes ;
+  * Créer un méta-cadre d'apprentissage ludique ;
+  * Favoriser l'esprit critique face aux apprentissages à venir et leur donner du sens (Bélair, 2015).
 
-  * Apparier le programme aux besoins des étudiants
-  
-  * Clarifier les cibles d'apprentissage et les critères de succès
-
-  * Inscrire la formation dans la narration personnelle de l'étudiant (Daniau, 2016; Duffy, 2018)
-
-  * Créer des amorçes 
-  
-  * Créer un méta-cadre d'apprentissage ludique
-  
-  * Favoriser l'esprit critique face aux apprentissages à venir et leur donner du sens (Bélair, 2015)
-
-* Mesurer la progression 
-
-  * Conclure la série d'atelier
-  
-  * Collecter les badges d'accomplissements (O'Brien & Jabobson, 2018)
-  
-  * Repérer les lacunes
-  
-  * Faciliter l'intégration des apprentissages
-  
-  * Avoir une mesure de soi objective de sa métalittératie
-  
-  * Autoréguler pour un apprenstissage en profondeur (Taras, 2008)
+* Mesurer la progression :
+  * Conclure la série d'atelier ;
+  * Collecter les badges d'accomplissements (O'Brien & Jabobson, 2018) ;
+  * Repérer les lacunes ;
+  * Faciliter l'intégration des apprentissages ;
+  * Avoir une mesure de soi objective de sa métalittératie ;
+  * Autoréguler pour un apprenstissage en profondeur (Taras, 2008).
 
 Pour aller plus loin, consulter le bingo des bonnes pratiques pédagogiques et de ludification de cette activité dans la [diapo no. 10 de cette présentation](http://hdl.handle.net/1866/21087).
 
