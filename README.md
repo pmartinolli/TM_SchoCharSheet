@@ -5,7 +5,7 @@
 
 # *Scholarly character sheet*
 
-*[Character sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18-en.pdf)*
+*[Character sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18.1-en.pdf)*
 
 
 ## Pourquoi l'utiliser ?
