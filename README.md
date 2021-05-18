@@ -7,6 +7,7 @@
 
 *[Character sheet in English, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.18.1-en.pdf)*
 
+![](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/feuilleperso119.png)
 
 ## Pourquoi l'utiliser ?
 
