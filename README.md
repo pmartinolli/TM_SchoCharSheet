@@ -100,11 +100,16 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 ## Bibliographie spécifique aux feuilles de personnage / *References*
 
 Barber, Evan. « Critical Hit: Using Dungeons and Dragons for Training and Evaluation ». Knoxville, TN, 2020. https://thecollective2020.sched.com/event/WxjM/critical-hit-using-dungeons-and-dragons-for-training-and-evaluation.
+
 Beattie, Scott. « Height vs. Depth in Badging Framework Design ». In *Foundation of Digital Badges and Micro-Credentials*, édité par Dirk Ifenthaler, Nicole Bellin-Mularski, et Dana-Kristin Mah, 307‑24. Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-15425-1_17.
+
 Konzack, Lars. « Characterology in Tabletop Role-Playing Games: A Textual Analysis of Character Sheets ». In *WyrdCon Companion Book 2013*, édité par Sarah Lynne Bowman, 86‑93. Los Angeles, CA, 2013. http://www.academia.edu/download/45947071/WCCB13.pdf#page=54.
+
 Morningstar, Jason. « Visual Design as Metaphor: The Evolution of a Character Sheet ». *Analog Game Studies* (blog), 2 décembre 2014. http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/.
+
 Peterson, Jon. « Character Sheets in 1975 ». *Playing at the World* (blog), 7 juillet 2013. http://playingattheworld.blogspot.com/2013/07/character-sheets-in-1975.html.
 Rient, Jeff. « The Elf That Is You: The Failure of the Character Sheet in Dungeons & Dragons – ISU Writing Program ». *Grassroots Writing Research Journal* 4, nᵒ 11 (2014). http://isuwriting.com/the-elf-that-is-you-the-failure-of-the-character-sheet-in-dungeons-dragons/.
+
 Steiner, Eliane, John Garcia Ulloa, Jaboury Ghazoul, Claude Garcia, et Giger Dray. « “I Remember Your Lecture”: Role-Playing Games and Unconventional Teaching Reinforce Learning Outcomes ». *ETH Learning and Teaching Journal* 2, nᵒ 1 (2020): 12.
 
 [Toute la bibliographie](http://hdl.handle.net/1866/25029) sur les aspects de gamification utilisés.
