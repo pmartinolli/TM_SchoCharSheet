@@ -39,7 +39,7 @@
   * Avoir une mesure de soi objective de sa métalittératie ;
   * Autoréguler pour un apprenstissage en profondeur (Taras, 2008).
 
-Pour aller plus loin, consulter les [diapos no. 4 à 16 de cette présentation](http://hdl.handle.net/1866/21087) (dont le bingo diapo 10).
+Pour aller plus loin, consulter cette [présentation](http://hdl.handle.net/1866/25029).
 
 ***Why using it?***
 
@@ -97,36 +97,17 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 
 
-## Bibliographie / *References*
+## Bibliographie spécifique aux feuilles de personnage / *References*
 
+Barber, Evan. « Critical Hit: Using Dungeons and Dragons for Training and Evaluation ». Knoxville, TN, 2020. https://thecollective2020.sched.com/event/WxjM/critical-hit-using-dungeons-and-dragons-for-training-and-evaluation.
 Beattie, Scott. « Height vs. Depth in Badging Framework Design ». In *Foundation of Digital Badges and Micro-Credentials*, édité par Dirk Ifenthaler, Nicole Bellin-Mularski, et Dana-Kristin Mah, 307‑24. Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-15425-1_17.
-
-Bélair, Louise M. « Entre lotto-évaluation et autoévaluation : questionnements sur les logiques de formations et les démarches d’accompagnement ». In *Évaluation et autoévaluation. Quels espaces de formation ?*, édité par Pierre-François Coen et Louise M. Bélair, 37‑54. Pédagogies en développement. Louvain-la-Neuve: De Boeck Supérieur, 2015. https://www.cairn.info/evaluation-et-autoevaluation--9782807300507-page-37.htm?contenu=resume.
-
-Daniau, Stéphane. « The Transformative Potential of Role-Playing Games: From Play Skills to Human Skills ». *Simulation & Gaming* 47, nᵒ 4 (2016): 423‑44. https://doi.org/10.1177/1046878116650765.
-
-Duffy, Joscelyn. « Interpreting Our Reality Through Story ». Blog. *Psychology Today* (blog), 18 octobre 2018. https://www.psychologytoday.com/blog/the-power-personal-narrative/201810/interpreting-our-reality-through-story.
-
-Kollars, Nina, et Amanda M. Rosen. « Who’s Afraid of the Big Bad Methods? Methodological Games and Role Play ». *Journal of Political Science Education* 13, nᵒ 3 (2017): 333‑45. https://doi.org/10.1080/15512169.2017.1331137.
-
 Konzack, Lars. « Characterology in Tabletop Role-Playing Games: A Textual Analysis of Character Sheets ». In *WyrdCon Companion Book 2013*, édité par Sarah Lynne Bowman, 86‑93. Los Angeles, CA, 2013. http://www.academia.edu/download/45947071/WCCB13.pdf#page=54.
+Morningstar, Jason. « Visual Design as Metaphor: The Evolution of a Character Sheet ». *Analog Game Studies* (blog), 2 décembre 2014. http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/.
+Peterson, Jon. « Character Sheets in 1975 ». *Playing at the World* (blog), 7 juillet 2013. http://playingattheworld.blogspot.com/2013/07/character-sheets-in-1975.html.
+Rient, Jeff. « The Elf That Is You: The Failure of the Character Sheet in Dungeons & Dragons – ISU Writing Program ». *Grassroots Writing Research Journal* 4, nᵒ 11 (2014). http://isuwriting.com/the-elf-that-is-you-the-failure-of-the-character-sheet-in-dungeons-dragons/.
+Steiner, Eliane, John Garcia Ulloa, Jaboury Ghazoul, Claude Garcia, et Giger Dray. « “I Remember Your Lecture”: Role-Playing Games and Unconventional Teaching Reinforce Learning Outcomes ». *ETH Learning and Teaching Journal* 2, nᵒ 1 (2020): 12.
 
-Mess, John A. « Use of Roleplaying in Bibliographic Instruction ». *Science & Technology Libraries* 14, nᵒ 2 (1994): 105‑18. https://doi.org/10.1300/J122v14n02_09.
-
-Morningstar, Jason. « Visual Design as Metaphor: The Evolution of a Character Sheet ». Blog. *Analog Game Studies* (blog), 2 décembre 2014. http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/.
-
-O’Brien, Kelsey, and Trudi E. Jacobson, eds. *Teaching with Digital Badges: Best Practices for Libraries. Innovations in Information Literacy*. Lanham, MD: Rowman & Littlefield, 2018.
-
-Peterson, Jon. « Character Sheets in 1975 ». Blog. *Playing at the World* (blog), 7 juillet 2013. http://playingattheworld.blogspot.com/2013/07/character-sheets-in-1975.html.
-
-Roussel, Chantal. « Autoévaluation et autorégulation : deux habiletés favorables aux apprentissages en profondeur ». *Le Tableau*, 2019.
-http://pedagogie.uquebec.ca/portail/le-tableau/autoevaluation-et-autoregulation-deux-habiletes-favorables-aux-apprentissages-en
-
-Taras, Maddalena. « Issues of power and equity in two models of self-assessment ». *Teaching in Higher Education* 13, nᵒ 1 (2008): 81‑92. https://doi.org/10.1080/13562510701794076.
-
-Tiuraniemi, Juhani, Riitta Läärä, Tuuli Kyrö, et Sari Lindeman. « Medical and psychology students’ self-assessed communication skills: A pilot study ». *Patient Education and Counseling* 83, nᵒ 2 (2011): 152‑57. https://doi.org/10.1016/j.pec.2010.05.013.
-
-Topîrceanu, Alexandru. « Gamified Learning: A Role-Playing Approach to Increase Student in-Class Motivation ». In *Procedia Computer Science*, 112:41‑50. Marseille, France: Procedia Computer Science, 2017. https://doi.org/10.1016/j.procs.2017.08.017.
+[Toute la bibliographie](http://hdl.handle.net/1866/25029) sur les aspects de gamification utilisés.
 
 
 ## Ludographie / *Ludography*
