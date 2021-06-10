@@ -51,7 +51,7 @@ Pour aller plus loin, consulter cette [présentation](http://hdl.handle.net/1866
 
 *- Measuring the progression: wrapping up the seminar ; identifying the learning gaps ; facilitating the integration of the knowledge ; having a precise measure of the metaliteracy of the students ; self-assessment for deep learning (Taras, 2008).*
 
-*To go further, check the gamification bingo in this presentation: [slides no. 4 to 16](http://hdl.handle.net/1866/22333).*
+*To go further, check the gamification bingo in this [presentation](http://hdl.handle.net/1866/25029).*
 
 ## Comment l'utiliser ? 
 
