@@ -1,6 +1,6 @@
 # Feuille de personnage du chercheur
 
-[Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.19-fr.pdf) - 
+[Feuille en français, PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet-v1.20-fr.pdf) - 
 [Complément : Grille d'évaluation des habiletés, fr PDF](https://github.com/pmartinolli/TM_SchoCharSheet/blob/master/files/TM_SchoCharSheet_grille_eval_habiletes.1.0.fr.pdf)
 
 # *Scholarly character sheet*
@@ -80,7 +80,7 @@ Le concept de [feuille de personnage](https://fr.wikipedia.org/wiki/Feuille_de_p
 
 * Créé le / *Created* : 2017
 
-* Dernière version / *Most recent version* : 1.18
+* Dernière version / *Most recent version* : 1.20
 
 * Format de fichier / *Original format* : MS Publisher 2013 (Propriétaire/*Proprietary*)
 
